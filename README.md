@@ -41,7 +41,8 @@ Project/
 
 ![Music Player](https://github.com/shivammude/Music-Player-SoundWave/blob/main/Project/Music%20Player.png)
 
-![Music Cards]()
+![Music Cards](https://github.com/shivammude/Music-Player-SoundWave/blob/main/Project/Music%20Cards.png)
+
 ## 🔧 How to Run
 
 1. Clone this repository:
