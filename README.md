@@ -21,16 +21,25 @@ SoundWave is a stylish and responsive web-based music player built using HTML, C
 - **Design:** Fully responsive with modern aesthetics
 
 ## 📁 Project Structure
-📦 SoundWave
-├── index.html # Main web page
-├── script.js # Core JavaScript for audio playback
-├── favicon.ico # Icon for the site
-├── img/ # Album cover and background images
-└── music/ # Audio files (MP3)
+📦 Music Player - SoundWave
+
+Project/
+
+├── index.html              # Main HTML file
+
+├── style.css               # Styling for the player UI
+
+├── script.js               # JavaScript functionality
+
+├── README.md               # Project documentation
+
+├── songs                   # Folder containing .mp3 music files
+
+├── images                  # Album covers and icons
 
 ## 📷 Screenshots
 
-
+![]
 ## 🔧 How to Run
 
 1. Clone this repository:
