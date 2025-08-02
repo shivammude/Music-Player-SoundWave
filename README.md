@@ -39,7 +39,9 @@ Project/
 
 ## 📷 Screenshots
 
-![]
+![Music Player](https://github.com/shivammude/Music-Player-SoundWave/blob/main/Project/Music%20Player.png)
+
+![Music Cards]()
 ## 🔧 How to Run
 
 1. Clone this repository:
